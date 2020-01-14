@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather API Test</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="celcius_symbol">℃</string>
+
+    <string name="temp">%1$s %2$s</string>
+</resources>
